@@ -1,0 +1,6 @@
+C:\Users\lutov\source\repos\TestForEPAM\TestForEPAM\bin\Debug\TestForEPAM.exe.config
+C:\Users\lutov\source\repos\TestForEPAM\TestForEPAM\bin\Debug\TestForEPAM.exe
+C:\Users\lutov\source\repos\TestForEPAM\TestForEPAM\bin\Debug\TestForEPAM.pdb
+C:\Users\lutov\source\repos\TestForEPAM\TestForEPAM\obj\Debug\TestForEPAM.csprojAssemblyReference.cache
+C:\Users\lutov\source\repos\TestForEPAM\TestForEPAM\obj\Debug\TestForEPAM.exe
+C:\Users\lutov\source\repos\TestForEPAM\TestForEPAM\obj\Debug\TestForEPAM.pdb
